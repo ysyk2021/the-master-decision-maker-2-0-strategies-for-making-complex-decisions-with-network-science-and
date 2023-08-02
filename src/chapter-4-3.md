@@ -1,4 +1,4 @@
-Chapter: Identifying Key Nodes and Connections in the Network
+Identifying Key Nodes and Connections in the Network
 =============================================================
 
 In this chapter, we explore the techniques for identifying key nodes and connections in a decision network using network science and complexity theory. By analyzing the structure and properties of the network, individuals can gain valuable insights into the most influential components of the decision-making process. This chapter provides practical strategies for identifying key nodes and connections, quantifying their importance, and leveraging this knowledge to inform decision-making in complex environments.

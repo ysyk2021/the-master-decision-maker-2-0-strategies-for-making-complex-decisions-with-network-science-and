@@ -1,4 +1,4 @@
-Chapter: Common Terms and Concepts in Network Science and Complexity Theory
+Common Terms and Concepts in Network Science and Complexity Theory
 ===========================================================================
 
 In this chapter, we explore the common terms and concepts used in network science and complexity theory. Understanding these key terms is essential for developing a solid foundation in analyzing complex decision-making processes. By familiarizing ourselves with these concepts, readers will be equipped with a comprehensive vocabulary to navigate the intricacies of network science and complexity theory.

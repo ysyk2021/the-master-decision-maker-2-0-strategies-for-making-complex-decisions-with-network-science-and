@@ -1,4 +1,4 @@
-Chapter: Defining the Decision Problem
+Defining the Decision Problem
 ======================================
 
 In this chapter, we delve into the importance of defining the decision problem as a crucial step in making complex decisions using network science and complexity theory. The decision problem sets the foundation for the decision-making process by clearly articulating the goals, objectives, constraints, and desired outcomes. By precisely defining the decision problem, decision-makers can develop effective strategies, identify relevant information, and navigate the complexities of the decision-making process. This chapter explores strategies and approaches for defining the decision problem using network science and complexity theory.

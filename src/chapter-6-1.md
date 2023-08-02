@@ -1,4 +1,4 @@
-Chapter: Building Consensus and Managing Conflicts
+Building Consensus and Managing Conflicts
 ==================================================
 
 In this chapter, we delve into the strategies for building consensus and managing conflicts in complex decision-making processes. Recognizing that diverse perspectives and disagreements are inherent in group decision-making, this chapter provides practical techniques for navigating conflicts, fostering constructive dialogue, and reaching a shared understanding. By effectively building consensus and managing conflicts, individuals can enhance the quality of their decision-making outcomes in complex environments.

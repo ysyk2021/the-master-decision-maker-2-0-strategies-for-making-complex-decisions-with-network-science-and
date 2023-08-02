@@ -1,4 +1,4 @@
-Chapter: The Role of the Master Decision Maker 2.0
+The Role of the Master Decision Maker 2.0
 ==================================================
 
 In this chapter, we explore the crucial role of the Master Decision Maker 2.0 in making complex decisions using network science and complexity theory. The Master Decision Maker 2.0 refers to an individual or a team responsible for orchestrating the decision-making process and leveraging the tools and strategies provided by network science and complexity theory. They play a key role in guiding, facilitating, and optimizing the decision-making process to achieve successful outcomes. This chapter delves into the responsibilities and skills of the Master Decision Maker 2.0.

@@ -1,4 +1,4 @@
-Chapter: Using Simulation and Other Tools to Compare Options
+Using Simulation and Other Tools to Compare Options
 ============================================================
 
 In this chapter, we delve into the various tools and techniques, including simulation, that can be used to compare options when making complex decisions. By leveraging these tools in conjunction with network science and complexity theory, decision-makers can gain valuable insights, assess trade-offs, and optimize their decision-making processes. This chapter explores how simulation and other tools can be employed to compare and evaluate different options effectively.

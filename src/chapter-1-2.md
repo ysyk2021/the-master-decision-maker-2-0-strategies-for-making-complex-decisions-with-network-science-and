@@ -1,4 +1,4 @@
-Chapter: How Network Science and Complexity Theory Can Aid in Decision-Making
+How Network Science and Complexity Theory Can Aid in Decision-Making
 =============================================================================
 
 In this chapter, we explore how network science and complexity theory can aid decision-makers in making complex decisions. Network science and complexity theory provide valuable tools and frameworks for understanding the dynamics, interdependencies, and emergent properties of complex systems. By applying these concepts to decision-making processes, decision-makers can gain insights into the underlying structures and relationships within the system, identify critical nodes and pathways, anticipate potential risks and opportunities, and make more informed and effective decisions. This chapter delves into the ways in which network science and complexity theory can aid decision-making.

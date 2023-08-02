@@ -1,4 +1,4 @@
-Chapter: Why Making Complex Decisions is Challenging
+Why Making Complex Decisions is Challenging
 ====================================================
 
 In this chapter, we explore the reasons why making complex decisions poses significant challenges for decision-makers. Complexity arises from the intricate interplay of various factors, making it difficult to understand, predict, and navigate complex systems. Recognizing and understanding these challenges is crucial for developing effective strategies and approaches when making complex decisions using network science and complexity theory. This chapter delves into the key challenges faced by decision-makers in complex environments.

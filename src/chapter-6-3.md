@@ -1,4 +1,4 @@
-Chapter: Techniques for Facilitating Group Decision-Making Using Network Science and Complexity Theory
+Techniques for Facilitating Group Decision-Making Using Network Science and Complexity Theory
 ======================================================================================================
 
 In this chapter, we explore techniques for facilitating group decision-making using the principles of network science and complexity theory. By harnessing the collective intelligence of a group and leveraging the insights provided by network models, individuals can make more informed and effective decisions in complex problem-solving scenarios. This chapter provides practical strategies for fostering collaboration, promoting diverse perspectives, managing group dynamics, and utilizing network models to facilitate group decision-making.

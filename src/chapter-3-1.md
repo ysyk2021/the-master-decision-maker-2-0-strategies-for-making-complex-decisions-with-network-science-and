@@ -1,4 +1,4 @@
-Chapter: Identifying Stakeholders and Decision-Makers
+Identifying Stakeholders and Decision-Makers
 =====================================================
 
 In this chapter, we explore the importance of identifying stakeholders and decision-makers in the process of making complex decisions using network science and complexity theory. Stakeholders are individuals, groups, or organizations who have an interest in or are affected by the decision at hand. Decision-makers, on the other hand, are the individuals responsible for making the final decision. By identifying and understanding the key stakeholders and decision-makers, decision-making processes can be more inclusive, transparent, and effective. This chapter delves into strategies for identifying stakeholders and decision-makers in complex decision-making contexts.

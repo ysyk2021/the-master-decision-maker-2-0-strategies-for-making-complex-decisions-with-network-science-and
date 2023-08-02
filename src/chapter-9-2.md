@@ -1,4 +1,4 @@
-Chapter: Developing Decision-Making Frameworks and Processes
+Developing Decision-Making Frameworks and Processes
 ============================================================
 
 In this chapter, we delve into the development of decision-making frameworks and processes that leverage network science and complexity theory. These frameworks provide a structured approach to making complex decisions and enable organizations to navigate uncertainty, analyze interdependencies, and optimize outcomes. By incorporating network science and complexity theory into their decision-making processes, organizations can enhance their ability to tackle complex challenges effectively. This chapter explores the key principles and strategies for developing decision-making frameworks and processes.

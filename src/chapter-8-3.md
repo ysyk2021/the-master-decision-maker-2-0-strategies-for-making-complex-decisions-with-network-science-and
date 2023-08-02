@@ -1,4 +1,4 @@
-Chapter: Incorporating Lessons Learned into Future Decision-Making using Network Science and Complexity Theory
+Incorporating Lessons Learned into Future Decision-Making using Network Science and Complexity Theory
 ==============================================================================================================
 
 In this chapter, we explore the significance of incorporating lessons learned from past decisions into future decision-making processes that leverage network science and complexity theory. Organizational learning is crucial for improving decision-making effectiveness and maximizing performance. By applying insights gained from previous experiences, organizations can make more informed decisions, adapt to complexity, and enhance overall decision outcomes. This chapter outlines strategies for effectively incorporating lessons learned using network science and complexity theory.

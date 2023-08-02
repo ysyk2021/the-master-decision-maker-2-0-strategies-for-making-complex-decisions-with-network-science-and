@@ -1,4 +1,4 @@
-Chapter: Applying Network Science and Complexity Theory to Decision-Making
+Applying Network Science and Complexity Theory to Decision-Making
 ==========================================================================
 
 In this chapter, we explore the practical applications of network science and complexity theory in the realm of decision-making. By utilizing the principles and techniques from these fields, individuals can enhance their decision-making processes, analyze complex systems, and navigate uncertain environments. This chapter highlights how network science and complexity theory can be applied to various aspects of decision-making.

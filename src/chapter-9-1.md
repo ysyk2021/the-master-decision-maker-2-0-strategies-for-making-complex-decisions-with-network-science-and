@@ -1,4 +1,4 @@
-Chapter: Applying Network Science and Complexity Theory at the Organizational Level
+Applying Network Science and Complexity Theory at the Organizational Level
 ===================================================================================
 
 In this chapter, we explore the application of network science and complexity theory at the organizational level for making complex decisions. Network science and complexity theory provide valuable insights and tools to understand the dynamics of organizational systems, relationships, and decision-making processes. By leveraging these approaches, organizations can enhance their decision-making capabilities and improve their overall performance. This chapter delves into the principles and strategies of applying network science and complexity theory at the organizational level.

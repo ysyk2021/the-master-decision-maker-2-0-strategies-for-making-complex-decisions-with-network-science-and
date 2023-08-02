@@ -1,4 +1,4 @@
-Chapter: Identifying Successes and Failures
+Identifying Successes and Failures
 ===========================================
 
 In this chapter, we explore the importance of identifying successes and failures in decision-making processes that leverage network science and complexity theory. Evaluating the outcomes of decisions is crucial for organizational learning and continuous improvement. By analyzing successes and failures, organizations can glean valuable insights, refine their decision-making approaches, and enhance overall performance. This chapter outlines strategies for effectively identifying successes and failures to drive future decision-making success.

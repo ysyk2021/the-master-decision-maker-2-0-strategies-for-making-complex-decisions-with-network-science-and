@@ -1,4 +1,4 @@
-Chapter: Evaluating the Outcomes of Past Decisions
+Evaluating the Outcomes of Past Decisions
 ==================================================
 
 In this chapter, we delve into the importance of evaluating the outcomes of past decisions in the context of leveraging network science and complexity theory. Assessing decision outcomes is crucial for organizational learning and continuous improvement. By analyzing the results of previous decisions, organizations can gain valuable insights, refine their decision-making approaches, and enhance overall performance. This chapter outlines strategies for effectively evaluating the outcomes of past decisions using network science and complexity theory.

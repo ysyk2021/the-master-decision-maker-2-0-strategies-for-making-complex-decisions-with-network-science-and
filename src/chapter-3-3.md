@@ -1,4 +1,4 @@
-Chapter: Mapping Out the Decision Scenarios
+Mapping Out the Decision Scenarios
 ===========================================
 
 In this chapter, we explore the process of mapping out decision scenarios as a critical step in making complex decisions using network science and complexity theory. Decision scenarios provide a structured framework for considering the potential outcomes and implications of different choices within a complex system. By systematically exploring various scenarios, decision-makers can gain insights into the dynamics and interdependencies of the system, identify potential risks and opportunities, and inform their decision-making process. This chapter delves into strategies and approaches for mapping out decision scenarios using network science and complexity theory.

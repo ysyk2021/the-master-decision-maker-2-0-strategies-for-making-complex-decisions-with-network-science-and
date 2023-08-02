@@ -1,4 +1,4 @@
-Chapter: Developing an Action Plan
+Developing an Action Plan
 ==================================
 
 In this chapter, we focus on the critical step of developing an action plan after evaluating options using network science and complexity theory. An action plan translates decisions into tangible steps, ensuring effective implementation and execution. By following systematic approaches and leveraging insights from network science and complexity theory, decision-makers can develop robust action plans that consider complex system dynamics. This chapter explores the key considerations and strategies for developing an action plan.

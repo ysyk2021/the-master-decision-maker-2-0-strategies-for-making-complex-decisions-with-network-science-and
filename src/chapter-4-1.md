@@ -1,4 +1,4 @@
-Chapter: Creating a Network Model of the Decision Problem
+Creating a Network Model of the Decision Problem
 =========================================================
 
 In this chapter, we delve into the process of creating a network model to analyze and understand complex decision problems. Drawing on principles from network science and complexity theory, we explore how constructing a network model can provide valuable insights, uncover hidden relationships, and facilitate effective decision-making. By mastering the art of creating network models, readers can gain a deeper understanding of decision problems and make informed choices in complex environments. This chapter provides practical strategies and techniques for creating network models of decision problems.
