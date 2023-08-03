@@ -29,5 +29,3 @@ In closing, I would like to offer some final thoughts and recommendations for re
 6. Continuously learn and improve: Stay updated with the latest developments in network science and complexity theory. Participate in relevant workshops, conferences, and online communities to expand your knowledge and skills.
 
 By incorporating these principles into your decision-making practices, you will be better equipped to navigate the complexities of today's world. Remember, mastering complex decision-making is a continuous process, so stay curious, persistent, and open-minded on your journey towards becoming a master decision-maker.
-
-*Disclaimer: The content in this book does not intend to provide political, territorial, or human rights related opinions or advice.*
