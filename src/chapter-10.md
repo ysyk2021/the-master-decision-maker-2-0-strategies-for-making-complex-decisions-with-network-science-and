@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 The ongoing journey of mastering complex decision-making using network science and complexity theory
 ----------------------------------------------------------------------------------------------------

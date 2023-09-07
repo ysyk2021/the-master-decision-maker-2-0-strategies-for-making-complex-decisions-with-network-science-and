@@ -1,4 +1,3 @@
-# The Role of the Master Decision Maker 2.0
 
 In this chapter, we will explore the crucial role of the Master Decision Maker 2.0 (MDM 2.0) in making complex decisions using network science and complexity theory. The MDM 2.0 is a revolutionary concept that combines advanced computational techniques with human expertise to tackle the challenges posed by decision-making in today's interconnected world.
 

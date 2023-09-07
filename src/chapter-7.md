@@ -1,5 +1,3 @@
-Chapter 6: Implementing Decisions
-=================================
 
 Implementing decisions effectively is critical for achieving desired outcomes. This chapter will explore strategies for implementing decisions using network science and complexity theory.
 

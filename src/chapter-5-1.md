@@ -1,4 +1,3 @@
-# Generating Options through Network Analysis and Other Techniques
 
 In this chapter, we will explore how network analysis and various other techniques can help in generating options for making complex decisions. By leveraging the power of network science and complexity theory, decision makers can gain valuable insights into the relationships and interdependencies among different elements involved in a decision-making process.
 

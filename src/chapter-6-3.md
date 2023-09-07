@@ -1,4 +1,3 @@
-# Techniques for Facilitating Group Decision-Making Using Network Science and Complexity Theory
 
 In today's complex and interconnected world, group decision-making plays a crucial role in various domains such as business, politics, and social organizations. However, making effective decisions as a group can be challenging due to the inherent complexity involved. This chapter explores techniques derived from network science and complexity theory that can facilitate and enhance group decision-making processes.
 

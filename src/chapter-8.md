@@ -1,5 +1,3 @@
-Chapter 7: Learning from Past Decisions
-=======================================
 
 In this chapter, we will discuss the importance of learning from past decisions and incorporating those lessons into future decision-making using network science and complexity theory.
 
@@ -26,5 +24,4 @@ Conclusion
 ----------
 
 In conclusion, learning from past decisions is critical to improving future decision-making. By evaluating the outcomes of past decisions, identifying successes and failures, and incorporating lessons learned using network science and complexity theory, businesses can make more informed and effective decisions. By taking a holistic approach to decision-making that recognizes the complexity of systems, businesses can avoid repeating mistakes and achieve better outcomes.
-
 

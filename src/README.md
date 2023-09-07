@@ -1,4 +1,4 @@
-# Introduction
+
 
 "The Master Decision Maker 2.0: Strategies for Making Complex Decisions with Network Science and Complexity Theory" is a comprehensive guidebook that offers practical strategies for navigating complex decision-making scenarios. In today's fast-paced and ever-changing world, businesses and individuals face a wide range of complex challenges that require informed and effective decision-making.
 
@@ -9,3 +9,7 @@ The book is designed for business leaders, entrepreneurs, students, and anyone w
 Whether you're trying to optimize system performance, manage risk, or navigate complex relationships, "The Master Decision Maker 2.0" provides valuable insights and strategies for making informed and effective decisions. The book is an essential reading for anyone looking to improve their decision-making skills and achieve success in complex environments.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

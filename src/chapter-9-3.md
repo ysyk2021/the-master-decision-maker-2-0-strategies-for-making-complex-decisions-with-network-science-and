@@ -1,4 +1,3 @@
-# Techniques for Scaling Decision-Making across Teams and Departments
 
 In this chapter, we will explore effective techniques for scaling decision-making processes across teams and departments within an organization. As businesses expand and become more complex, it is crucial to implement strategies that facilitate efficient and collaborative decision-making at all levels. We will leverage the principles of network science and complexity theory to provide practical insights into this critical aspect of organizational management.
 

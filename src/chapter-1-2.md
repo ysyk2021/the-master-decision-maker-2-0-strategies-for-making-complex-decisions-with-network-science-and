@@ -1,4 +1,3 @@
-# How Network Science and Complexity Theory Can Aid in Decision-Making
 
 In today's fast-paced and interconnected world, decision-making has become increasingly complex. Leaders and executives are faced with multifaceted challenges that require a deeper understanding of the underlying dynamics and relationships between various elements at play. This chapter explores how network science and complexity theory can provide valuable insights and aid in making informed decisions.
 

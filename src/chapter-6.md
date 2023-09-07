@@ -1,5 +1,3 @@
-Chapter 5: Making Decisions as a Team
-=====================================
 
 When it comes to making complex decisions, involving a team can bring multiple perspectives and expertise to the decision-making process. However, managing conflicts and building consensus can be challenging. This chapter will explore strategies for making decisions as a team using network science and complexity theory.
 

@@ -1,4 +1,3 @@
-# Using Simulation and Other Tools to Compare Options
 
 When faced with complex decisions, it is crucial to have a systematic approach that allows for a thorough comparison of available options. In this chapter, we will explore the use of simulation and other tools to aid decision-making processes. By leveraging network science and complexity theory, we can gain valuable insights into the potential outcomes and risks associated with various choices.
 

@@ -1,4 +1,3 @@
-# How Network Science and Complexity Theory can be Applied to Decision-Making
 
 In today's complex and interconnected world, decision-making has become increasingly challenging. Traditional decision-making approaches often fail to capture the intricate relationships and dynamics that influence outcomes. However, by leveraging the principles of network science and complexity theory, decision-makers can gain valuable insights into the underlying structures and behaviors of complex systems. This chapter explores how network science and complexity theory can be applied to enhance the decision-making process.
 

@@ -1,4 +1,3 @@
-# Incorporating Lessons Learned into Future Decision-Making using Network Science and Complexity Theory
 
 In the modern world, decision-making has become increasingly complex due to the interconnectedness of various factors and the presence of multiple stakeholders. In order to make better decisions, it is essential to incorporate lessons learned from past experiences. This chapter explores how network science and complexity theory can be applied to integrate these lessons into future decision-making processes.
 

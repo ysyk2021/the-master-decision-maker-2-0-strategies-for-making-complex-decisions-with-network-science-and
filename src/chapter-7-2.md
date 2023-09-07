@@ -1,5 +1,3 @@
-Assigning Responsibilities and Resources
-===========================================================================
 
 Implementing decisions effectively requires assigning responsibilities and allocating resources appropriately. This chapter will explore strategies for assigning responsibilities and resources using network science and complexity theory.
 

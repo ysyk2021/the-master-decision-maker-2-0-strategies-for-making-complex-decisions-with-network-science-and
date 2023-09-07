@@ -1,4 +1,3 @@
-# What is Network Science? What is Complexity Theory?
 
 In this chapter, we will explore the fundamental concepts of network science and complexity theory. These two fields provide valuable insights into understanding complex systems and making informed decisions. We will delve into their definitions, principles, and applications, highlighting how they can be utilized to address intricate decision-making challenges.
 

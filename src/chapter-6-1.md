@@ -1,4 +1,3 @@
-# Building Consensus and Managing Conflicts
 
 In this chapter, we will explore the importance of building consensus and managing conflicts in the decision-making process. We will discuss how network science and complexity theory can provide valuable insights and strategies to navigate through complex decision-making scenarios.
 

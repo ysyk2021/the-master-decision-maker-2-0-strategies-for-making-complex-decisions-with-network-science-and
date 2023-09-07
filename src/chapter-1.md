@@ -1,5 +1,3 @@
-Introduction
-============
 
 Making complex decisions can be challenging, especially when there are multiple stakeholders involved and unpredictable outcomes to consider. However, network science and complexity theory provide powerful tools for analyzing complex systems and making informed decisions.
 

@@ -1,5 +1,3 @@
-Chapter 4: Evaluating Decision Options
-======================================
 
 In this chapter, we will discuss how to evaluate decision options using network science and complexity theory.
 

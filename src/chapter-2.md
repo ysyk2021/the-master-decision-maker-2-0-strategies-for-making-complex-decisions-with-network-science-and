@@ -1,5 +1,3 @@
-Chapter 1: Understanding Network Science and Complexity Theory
-==============================================================
 
 What is network science? What is complexity theory?
 ---------------------------------------------------

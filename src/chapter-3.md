@@ -1,5 +1,3 @@
-Chapter 2: Mapping Your Decision Landscape
-==========================================
 
 To make complex decisions effectively, it is important to have a clear understanding of the decision landscape - that is, the key stakeholders, decision-makers, and scenarios involved in the decision. In this chapter, we will explore strategies for mapping your decision landscape.
 
@@ -30,5 +28,4 @@ Conclusion
 ----------
 
 Mapping your decision landscape is a critical step in making complex decisions with network science and complexity theory. By identifying stakeholders and decision-makers, defining the decision problem, and mapping out decision scenarios, you can develop a more comprehensive understanding of the decision landscape and make more informed and effective decisions.
-
 

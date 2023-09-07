@@ -1,5 +1,3 @@
-Chapter 8: Scaling Decision-Making
-==================================
 
 Scaling decision-making can be challenging, especially in large organizations. However, it is essential to ensure that decisions are well-informed and consistent across the organization. This chapter will explore strategies for scaling decision-making using network science and complexity theory.
 

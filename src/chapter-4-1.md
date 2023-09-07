@@ -1,4 +1,3 @@
-# Creating a Network Model of the Decision Problem
 
 In this chapter, we will explore the concept of creating a network model to tackle complex decision-making problems. Decision-making is an integral part of our lives, and as problems become more intricate, it's essential to use effective strategies to arrive at optimal solutions. One such strategy involves leveraging network science and complexity theory to build a comprehensive network model. By doing so, we can gain valuable insights into the underlying structure and dynamics of the decision problem, paving the way for better-informed decisions.
 

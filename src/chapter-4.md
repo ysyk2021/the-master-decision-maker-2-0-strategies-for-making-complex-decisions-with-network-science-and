@@ -1,5 +1,3 @@
-Chapter 3: Building a Decision Network
-======================================
 
 In this chapter, we will discuss how to build a decision network using network science and complexity theory.
 

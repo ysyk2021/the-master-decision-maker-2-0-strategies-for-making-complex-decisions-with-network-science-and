@@ -1,4 +1,3 @@
-# Mapping Out the Decision Scenarios
 
 In this chapter, we will explore the importance of mapping out decision scenarios using network science and complexity theory. Decision-making can often be a complex and challenging process, especially when dealing with intricate systems and multiple variables. By utilizing these strategies, individuals can gain valuable insights into the potential outcomes of their decisions and make more informed choices.
 
